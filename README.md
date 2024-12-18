@@ -32,7 +32,7 @@ Publish the website in the LocalHost.
 
 ## PROGRAM:
 ---
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -180,7 +180,7 @@ Publish the website in the LocalHost.
 </html>
 
 ---
-
+```
 ## OUTPUT:
 ![alt text](<Screenshot 2024-12-15 211820-1.png>)
 
